@@ -50,5 +50,6 @@ cd your-repo
 * Git Version Control
 
 ---
-
+Recruiter Note
+This project showcases my hands-on expertise in deep learning, the ability to create reproducible ML pipelines, and experience with industry-standard tools. I am passionate about building and deploying impactful AI solutions.
 
