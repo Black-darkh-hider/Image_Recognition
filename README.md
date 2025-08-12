@@ -24,8 +24,8 @@ cd your-repo
 
 ## Datasets — Source & Description
 
-* **MNIST Dataset**: A classic collection of 70,000 grayscale images of handwritten digits (60,000 for training, 10,000 for testing) ([Kaggle][1], [Wikipedia][2]).
-* **Cats & Dogs Dataset**: A widely used binary classification dataset of cat and dog images, perfect for model-building practice ([Kaggle][3]).
+* **MNIST Dataset**: A classic collection of 70,000 grayscale images of handwritten digits (60,000 for training, 10,000 for testing) ([Kaggle][https://www.kaggle.com/datasets/hojjatk/mnist-dataset]).
+* **Cats & Dogs Dataset**: A widely used binary classification dataset of cat and dog images, perfect for model-building practice ([Kaggle][https://www.kaggle.com/datasets/tongpython/cat-and-dog  add to it ]).
 
 ---
 
