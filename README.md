@@ -51,11 +51,4 @@ cd your-repo
 
 ---
 
-## Recruiter Note
 
-This project showcases my hands-on expertise in deep learning, the ability to create **reproducible ML pipelines**, and experience with **industry-standard tools**. I am passionate about building and deploying **impactful AI solutions**.
-
----
-
-I can also make a **visually enhanced version** with emojis, badges, and sections for "Installation" and "Usage" so it looks even more professional on GitHub.
-Do you want me to format it that way?
